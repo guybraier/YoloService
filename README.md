@@ -87,3 +87,5 @@ curl -X POST -F "file=@your_image.jpg" http://localhost:8080/predict
 curl http://localhost:8080/prediction/{uid}
 
 ### Testing my GitOps Pipeline
+### Testing2 my GitOps Pipeline
+
